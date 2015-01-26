@@ -1,2 +1,2 @@
 # todoList
-my todo list application
+todo list application
